@@ -5,7 +5,7 @@ import java.net.Socket;
 import java.util.Scanner;
 
 /**
- * This class implement client part of Chat Application.
+ * This class implement clien1t part of Chat Application.
  * Connects to server and sends messages to other clients
  * Chat commands:
  *  /snd <message-text> - send message to other users of chat
